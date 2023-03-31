@@ -6,6 +6,7 @@ class ProductManager  {
     }
 
     getProducts = () => {
+        return this.events
 
     }
 
