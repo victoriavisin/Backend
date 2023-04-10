@@ -1,0 +1,9 @@
+{
+	"id": 2,
+	"title": "Chocolate",
+	"price": 100,
+	"description": "Barra de chocolate amargo",
+	"thumbnail": "https://res.cloudinary.com/dyxviqtpy/image/upload/v1679930638/chocolate_xq3fva.jpg",
+	"code": "dsjdsy",
+	"stock": 13
+}
